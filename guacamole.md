@@ -1,6 +1,6 @@
 Ingredients:
-- 2 avocados (read as bullet point)
-- 1 lime
+- 2 cups avocado (read as bullet point)
+- 1 small lime
 - 2 tsp salt
 
 Instructions:
