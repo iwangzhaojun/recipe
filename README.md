@@ -1,3 +1,3 @@
-# recipe
+# Recipes
 
-Some cool recipes 
+Here are recipes for guacamole, avocado sald, and a smoothie
